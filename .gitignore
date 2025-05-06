@@ -1,0 +1,34 @@
+# Arduino build files
+*.elf
+*.bin
+*.hex
+*.map
+*.d
+*.o
+
+# VS Code
+.vscode/
+
+# Arduino backup files
+*.bak
+*.tmp
+*.swp
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# PlatformIO
+.pio/
+.clangd/
+.env
+
+# SD card or data files
+data/
+*.log
+*.wav
+*.mp3
+*.jpg
+*.png
