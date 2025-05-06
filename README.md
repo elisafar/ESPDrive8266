@@ -41,7 +41,7 @@ Port forwarding is required for control over the internet from remote distances
 1. Flash the code to your ESP8266.
 2. On first boot, connect to the WiFi AP called `ESPcard-Setup`.
 3. Select and connect to your WiFi network.
-4. Open a browser and go to `http://<your-esp-ip>/`
+4. Open a browser and go to `http://<your-esp-ip>/` or `http://espcard.local`
 5. Upload files via the web interface.
 6. Click **Reset WiFi Settings** if needed.
 
